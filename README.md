@@ -19,8 +19,31 @@ The dahsboard was built using the following technologies
 - 🧠 DAX ( Data Analysis Expression) - Used for calculated measures, dynamic visuals, and conditional logic.
   
 # Features / Highlights
-- Business Problem
-- Goal of the dashboard
-- Walk through of key visuals
-- Business impact and Insights
+
+- ## Business Problem
+
+1. **Tracking Revenue Growth** – Businesses struggle to monitor revenue changes over time, making it difficult to identify growth trends or declines.
+
+2. **Understanding Sales Volume Trends** – Companies often face challenges in assessing product demand and identifying which items drive the most sales.
+
+3. **Analyzing Profitability** – Without clear profit margin insights, organizations may fail to recognize areas where costs are impacting overall profitability.
+
+4. **Identifying High-Performing Products** – Businesses need data to determine which products contribute the most to revenue and which underperform.
+
+5. **Segmenting Customer Profitability** – Companies benefit from analyzing how different customer segments (e.g., Enterprise, Small Business, Government) impact revenue, helping refine sales strategies.
+
+6. **Detecting Seasonal Revenue Patterns** – Many organizations struggle to identify fluctuations in sales across different time periods, which can affect inventory and operational planning.
+
+7. **Optimizing Regional Sales Performance** – Businesses require geographic sales insights to focus efforts on high-performing regions or improve strategies in weaker markets.
+
+8. **Assessing Discount Effectiveness** – Companies must evaluate how different discount levels impact unit sales to refine their pricing and promotional strategies.
+
+
+- ## Goal of the dashboard
+
+This dashboard serves as a strategic decision-making tool, providing comprehensive insights into revenue trends, profit margins, product performance, and market segmentation. By visualizing key financial and operational metrics, it enables businesses to identify growth opportunities, optimize pricing strategies, enhance product portfolio management, and refine customer segmentation efforts. Additionally, it supports data-driven decision-making by highlighting patterns in sales performance, regional market dynamics, and profitability drivers, ensuring that stakeholders can make informed strategic adjustments to maximize revenue and operational efficiency.
+
+Would you like further refinements to align with specific business objectives?
+- ## Walk through of key visuals
+- ## Business impact and Insights
 # Screeshots / Demos
