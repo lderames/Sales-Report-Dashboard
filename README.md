@@ -23,7 +23,7 @@ The dahsboard was built using the following technologies
 
 # Features / Highlights
 
-- ## Business Problem
+- ## Business Problems
 
 
 1. **Tracking Revenue Growth** – Businesses struggle to monitor revenue changes over time, making it difficult to identify growth trends or declines.
