@@ -69,8 +69,6 @@ This dashboard serves as a strategic decision-making tool, providing comprehensi
 - ## Business impact and Insights
 
 
-### **Business Impacts & Insights**  
-
 1. **Revenue & Profitability Growth**  
    - Sustained revenue increases highlight strong demand and market positioning.  
    - Profit margins indicate operational efficiency and cost management effectiveness.  
