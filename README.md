@@ -51,4 +51,4 @@ This dashboard serves as a strategic decision-making tool, providing comprehensi
 - ## Business impact and Insights
 # Screeshots / Demos
 
-Show what the dashboard looks like. -[Alt text)] 
+Show what the dashboard looks like. -[Alt text)](https://github.com/lderames/Sales-Report-Dashboard/blob/main/Project1.png)
