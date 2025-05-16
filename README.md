@@ -14,7 +14,7 @@ For the Dataset: [Download Here](https://github.com/lderames/Sales-Report-Dashbo
  
 # Tools Used
 
-The dahsboard was built using the following technologies
+The dashboard was built using the following technologies
 
 - 📊 Power BI Desktop - Main data visualiztion tool for report creation.
 - 📁 Power Query - Data transformation and cleaning layer for reshaping and preparing data.
