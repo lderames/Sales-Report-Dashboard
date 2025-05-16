@@ -6,7 +6,7 @@ This dashboard 📊 provides a comprehensive and dynamic analysis of key busines
 
 # Background
 
- DataSense PH 💡 organized the **Zero to Hero Power BI Tutorial** to introduce aspiring data professionals to the core principles of data analytics and visualization using Power BI. As part of this initiative, participants were provided with datasets and tasked with developing dashboards that present actionable insights.  
+ **DataSense PH** organized the **Zero to Hero Power BI Tutorial** to introduce aspiring data professionals to the core principles of data analytics and visualization using Power BI. As part of this initiative, participants were provided with datasets and tasked with developing dashboards that present actionable insights.  
 
 This project serves as a practical application of my learning, demonstrating my ability to transform raw data into structured, insightful visualizations that support data-driven decision-making.  
 
