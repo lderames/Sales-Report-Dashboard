@@ -53,7 +53,7 @@ This dashboard serves as a strategic decision-making tool, providing comprehensi
 
 1. **Top Metrics Overview** – Displays **essential business metrics**, including revenue, total units sold, gross profit, and profit margin. This section provides a quick snapshot of financial performance, highlighting any notable changes.
 
-2. **Profit vs Revenue** – A **bar chart** showing revenue trends over time, allowing you to identify peak and low-performing months. Annotations may highlight significant fluctuations.
+2. **Profit vs Revenue** – A **clustered bar chart** showing revenue trends over time, allowing you to identify peak and low-performing months. Annotations may highlight significant fluctuations.
 
 3. **Revenue by Product** – A **bar graph** categorizing revenue across different products, revealing top-selling items and opportunities for growth.
 
