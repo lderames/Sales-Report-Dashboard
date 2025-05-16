@@ -49,7 +49,62 @@ This dashboard serves as a strategic decision-making tool, providing comprehensi
 
 
 - ## Walk through of key visuals
+
+
+1. **Top Metrics Overview** – Displays **essential business metrics**, including revenue, total units sold, gross profit, and profit margin. This section provides a quick snapshot of financial performance, highlighting any notable changes.
+
+2. **Profit vs Revenue** – A **bar chart** showing revenue trends over time, allowing you to identify peak and low-performing months. Annotations may highlight significant fluctuations.
+
+3. **Revenue by Product** – A **bar graph** categorizing revenue across different products, revealing top-selling items and opportunities for growth.
+
+4. **Revenue by Quarter** – A **line graph** tracking revenue distribution across quarters, helping in seasonal trend analysis and forecasting.
+
+5. **Revenue by Segment** – A **bar chart** outlining revenue distribution across business segments such as Small Business, Government, and Enterprise, enabling comparisons between different markets.
+
+6. **Unit Sold by Country** – A **map visualization** pinpointing geographical sales performance, identifying regions with high sales volume and profit contribution.
+
+7. **Unit Sold Breakdown by Discount Band** – A **treemap visualization** representing unit sales across discount categories, helping analyze pricing strategies and their impact on sales volume.
+
+
 - ## Business impact and Insights
+
+
+### **Business Impacts & Insights**  
+
+1. **Revenue & Profitability Growth**  
+   - Sustained revenue increases highlight strong demand and market positioning.  
+   - Profit margins indicate operational efficiency and cost management effectiveness.  
+   - Strategic price adjustments can further optimize profitability.  
+
+2. **Product Performance & Market Demand**  
+   - Identifying top-selling products enables better inventory and resource allocation.  
+   - Underperforming products may require targeted promotions or strategic repositioning.  
+
+3. **Customer Segments & Revenue Contribution**  
+   - Tracking which customer groups contribute most to revenue (e.g., Enterprise, Small Business, Government) informs tailored strategies for engagement.  
+   - Expanding efforts in high-value customer segments drives business growth.  
+
+4. **Geographic Sales Distribution**  
+   - Strong regions indicate favorable market conditions and brand loyalty.  
+   - Lower-performing regions may need targeted marketing, pricing incentives, or new distribution strategies.  
+
+5. **Pricing & Discount Strategies**  
+   - Discounts drive higher sales volume but require careful management to avoid profit erosion.  
+   - No-discount models may indicate price sensitivity, guiding pricing strategy refinements.  
+
+6. **Operational Efficiency & Cost Optimization**  
+   - Managing expenses relative to revenue ensures sustainable business growth.  
+   - Optimizing supply chain logistics minimizes costs and maximizes delivery efficiency.  
+
+### **Strategic Recommendations**  
+- **Prioritize high-profit margin products** while managing inventory for steady demand.  
+- **Enhance customer engagement** through personalized promotions and outreach to dominant segments.  
+- **Expand in promising geographic regions** with localized marketing strategies.  
+- **Refine discount models** to balance volume growth and profitability.  
+- **Strengthen operational efficiency** by leveraging automation and cost-saving measures.  
+
+These insights establish a **data-driven foundation** for refining business strategy, optimizing sales performance, and sustaining market growth. 
+
 # Screeshots / Demos
   **Dashboard Preview** 
  - ![Alt text)](https://github.com/lderames/Sales-Report-Dashboard/blob/main/Project1.png)
