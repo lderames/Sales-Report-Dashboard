@@ -26,21 +26,21 @@ The dashboard was built using the following technologies
 - ## Business Problems
 
 
-1. **Tracking Revenue Growth** – Businesses struggle to monitor revenue changes over time, making it difficult to identify growth trends or declines.
+1. **Tracking Revenue Growth** – Track and monitor revenue changes over time, to identify growth trends or declines.
 
-2. **Understanding Sales Volume Trends** – Companies often face challenges in assessing product demand and identifying which items drive the most sales.
+2. **Understanding Sales Volume Trends** – Asses product demands and identify which items drive the most sales.
 
-3. **Analyzing Profitability** – Without clear profit margin insights, organizations may fail to recognize areas where costs are impacting overall profitability.
+3. **Analyzing Profitability** – Show a clear profit margin insight and indentify areas where cost are impacting overall profitability.
 
-4. **Identifying High-Performing Products** – Businesses need data to determine which products contribute the most to revenue and which underperform.
+4. **Identifying High-Performing Products** – Which products contribute the most to revenue and which is underperforming?
 
-5. **Segmenting Customer Profitability** – Companies benefit from analyzing how different customer segments (e.g., Enterprise, Small Business, Government) impact revenue, helping refine sales strategies.
+5. **Segmenting Customer Profitability** – Analyze how different customer segments (e.g., Enterprise, Small Business, Government) impact revenue, to help refine sales strategies.
 
-6. **Detecting Seasonal Revenue Patterns** – Many organizations struggle to identify fluctuations in sales across different time periods, which can affect inventory and operational planning.
+6. **Detecting Seasonal Revenue Patterns** – Identify fluctuations in sales across different quarter, to improve inventory and operational planning.
 
-7. **Optimizing Regional Sales Performance** – Businesses require geographic sales insights to focus efforts on high-performing regions or improve strategies in weaker markets.
+7. **Optimizing Regional Sales Performance** – Provide geographic sales insights to focus efforts on high-performing regions or improve strategies in weaker markets.
 
-8. **Assessing Discount Effectiveness** – Companies must evaluate how different discount levels impact unit sales to refine their pricing and promotional strategies.
+8. **Assessing Discount Effectiveness** – Evaluate how different discount levels impact unit sales to refine the pricing and promotional strategies.
 
 
 - ## Goal of the Dashboard
