@@ -103,6 +103,6 @@ This dashboard serves as a strategic decision-making tool, providing comprehensi
 
 These insights establish a **data-driven foundation** for refining business strategy, optimizing sales performance, and sustaining market growth. 
 
-# Dashboard Screeshots 
+# Dashboard Screeshot 
   **Dashboard Preview** 
  - ![Alt text)](https://github.com/lderames/Sales-Report-Dashboard/blob/main/Project1.png)
