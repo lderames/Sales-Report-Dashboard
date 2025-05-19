@@ -43,12 +43,12 @@ The dashboard was built using the following technologies
 8. **Assessing Discount Effectiveness** – Companies must evaluate how different discount levels impact unit sales to refine their pricing and promotional strategies.
 
 
-- ## Goal of the dashboard
+- ## Goal of the Dashboard
 
 This dashboard serves as a strategic decision-making tool, providing comprehensive insights into revenue trends, profit margins, product performance, and market segmentation. By visualizing key financial and operational metrics, it enables businesses to identify growth opportunities, optimize pricing strategies, enhance product portfolio management, and refine customer segmentation efforts. Additionally, it supports data-driven decision-making by highlighting patterns in sales performance, regional market dynamics, and profitability drivers, ensuring that stakeholders can make informed strategic adjustments to maximize revenue and operational efficiency.
 
 
-- ## Walk through of key visuals
+- ## Walk Through of Key Visuals
 
 
 1. **Top Metrics Overview** – Displays **essential business metrics**, including revenue, total units sold, gross profit, and profit margin. This section provides a quick snapshot of financial performance, highlighting any notable changes.
@@ -66,7 +66,7 @@ This dashboard serves as a strategic decision-making tool, providing comprehensi
 7. **Unit Sold Breakdown by Discount Band** – A **treemap visualization** representing unit sales across discount categories, helping analyze pricing strategies and their impact on sales volume.
 
 
-- ## Business impact and Insights
+- ## Business Impact and Insights
 
 
 1. **Revenue & Profitability Growth**  
